@@ -1,9 +1,9 @@
-MONGODB_HOST: mongodb-{{ env }}.daws86s.fun # mongodb-dev.daws86s.fun
-REDIS_HOST: redis-{{ env }}.daws86s.fun
-CATALOGUE_HOST: catalogue.backend-alb-{{ env }}.daws86s.fun
-CART_HOST: cart.backend-alb-{{ env }}.daws86s.fun
-USER_HOST: user.backend-alb-{{ env }}.daws86s.fun
-RABBITMQ_HOST: rabbitmq-{{ env }}.daws86s.fun
-MYSQL_HOST: mysql-{{ env }}.daws86s.fun
-SHIPPING_HOST: shipping.backend-alb-{{ env }}.daws86s.fun
-PAYMENT_HOST: payment.backend-alb-{{ env }}.daws86s.fun
+MONGODB_HOST: mongodb-{{ env }}.anitha.fun # mongodb-dev.anitha.fun
+REDIS_HOST: redis-{{ env }}.anitha.fun
+CATALOGUE_HOST: catalogue.backend-alb-{{ env }}.anitha.fun
+CART_HOST: cart.backend-alb-{{ env }}.anitha.fun
+USER_HOST: user.backend-alb-{{ env }}.anitha.fun
+RABBITMQ_HOST: rabbitmq-{{ env }}.anitha.fun
+MYSQL_HOST: mysql-{{ env }}.anitha.fun
+SHIPPING_HOST: shipping.backend-alb-{{ env }}.anitha.fun
+PAYMENT_HOST: payment.backend-alb-{{ env }}.anitha.fun
